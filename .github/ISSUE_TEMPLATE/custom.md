@@ -1,10 +1,10 @@
 ---
 name: Custom issue template
-about: Issues
-title: Issues here
-labels: bug
-assignees: jekabspl
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-Your issue.
+
